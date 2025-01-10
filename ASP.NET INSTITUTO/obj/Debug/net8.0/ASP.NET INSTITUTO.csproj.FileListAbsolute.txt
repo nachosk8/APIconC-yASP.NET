@@ -1,0 +1,32 @@
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\appsettings.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\ASP.NET INSTITUTO.exe
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\ASP.NET INSTITUTO.deps.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\ASP.NET INSTITUTO.runtimeconfig.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\ASP.NET INSTITUTO.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\ASP.NET INSTITUTO.pdb
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.AssemblyInfoInputs.cache
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.AssemblyInfo.cs
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET INSTITUTO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET INSTITUTO.props
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET INSTITUTO.props
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET INSTITUTO.props
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\scopedcss\bundle\ASP.NET INSTITUTO.styles.css
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET .CF6C44F0.Up2Date
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\refint\ASP.NET INSTITUTO.dll
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.pdb
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ASP.NET INSTITUTO.genruntimeconfig.cache
+C:\Users\nacho\source\repos\ASP.NET INSTITUTO\ASP.NET INSTITUTO\obj\Debug\net8.0\ref\ASP.NET INSTITUTO.dll
