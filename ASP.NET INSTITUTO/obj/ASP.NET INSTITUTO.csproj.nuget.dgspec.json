@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj": {}
+    "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj": {
+    "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
+        "projectUniqueName": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
         "projectName": "ASP.NET INSTITUTO",
-        "projectPath": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
+        "projectPath": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
         "packagesPath": "C:\\Users\\nacho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\obj\\",
+        "outputPath": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
             }
           },
           "imports": [

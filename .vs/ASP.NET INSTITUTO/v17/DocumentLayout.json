@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\",
+  "WorkspaceRootPath": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\source\\repos\\asp.net instituto\\asp.net instituto\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\onedrive\\escritorio\\repos git\\asp.net instituto\\asp.net instituto\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\source\\repos\\asp.net instituto\\asp.net instituto\\model\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\onedrive\\escritorio\\repos git\\asp.net instituto\\asp.net instituto\\asp.net instituto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\asp.net instituto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\onedrive\\escritorio\\repos git\\asp.net instituto\\asp.net instituto\\model\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\model\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\source\\repos\\asp.net instituto\\asp.net instituto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\onedrive\\escritorio\\repos git\\asp.net instituto\\asp.net instituto\\repository\\alumnohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\repository\\alumnohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\source\\repos\\asp.net instituto\\asp.net instituto\\asp.net instituto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\asp.net instituto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|c:\\users\\nacho\\onedrive\\escritorio\\repos git\\asp.net instituto\\asp.net instituto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E6FB4E-E00D-4BC7-A6EC-C07233D8C1A8}|ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj|solutionrelative:asp.net instituto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,57 +41,72 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Alumnos.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\Model\\Alumnos.cs",
-              "RelativeDocumentMoniker": "ASP.NET INSTITUTO\\Model\\Alumnos.cs",
-              "ToolTip": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\Model\\Alumnos.cs",
-              "RelativeToolTip": "ASP.NET INSTITUTO\\Model\\Alumnos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T14:47:18.896Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AlumnoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Repository\\AlumnoHandler.cs",
+              "RelativeDocumentMoniker": "ASP.NET INSTITUTO\\Repository\\AlumnoHandler.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Repository\\AlumnoHandler.cs",
+              "RelativeToolTip": "ASP.NET INSTITUTO\\Repository\\AlumnoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:28:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Model\\Alumnos.cs",
+              "RelativeDocumentMoniker": "ASP.NET INSTITUTO\\Model\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Model\\Alumnos.cs",
+              "RelativeToolTip": "ASP.NET INSTITUTO\\Model\\Alumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:47:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ASP.NET INSTITUTO.csproj",
-              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
               "RelativeDocumentMoniker": "ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
-              "ToolTip": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
               "RelativeToolTip": "ASP.NET INSTITUTO\\ASP.NET INSTITUTO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T14:46:33.838Z"
+              "WhenOpened": "2025-01-10T14:46:33.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AlumnoController.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\Controllers\\AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Controllers\\AlumnoController.cs",
               "RelativeDocumentMoniker": "ASP.NET INSTITUTO\\Controllers\\AlumnoController.cs",
-              "ToolTip": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "ASP.NET INSTITUTO\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:38:33.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ASP.NET INSTITUTO\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\nacho\\source\\repos\\ASP.NET INSTITUTO\\ASP.NET INSTITUTO\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Escritorio\\REPOS GIT\\asp.net Instituto\\ASP.NET INSTITUTO\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "ASP.NET INSTITUTO\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:22:46.998Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
