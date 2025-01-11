@@ -13,6 +13,11 @@ namespace ASP.NET_INSTITUTO.Controllers
         {
             return AlumnoHandler.GetAlumnos();  // AlumnoHandler la hice clase estática justamente para poder llamarla ahora
         }
+
+        [HttpDelete]
+        public void DeleteAlumnos([FromBody /*esto quiere decir que se borrará lo que se escriba en el body del postman*/] int id) { 
+        }
+
         
     }
 }

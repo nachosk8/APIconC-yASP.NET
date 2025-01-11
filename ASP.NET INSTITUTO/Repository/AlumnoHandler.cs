@@ -27,6 +27,7 @@ namespace ASP.NET_INSTITUTO.Repository
                                 conocerAlumno.apellido = reader["apellido"].ToString();
                                 conocerAlumno.dni = Convert.ToInt32(reader["dni"]);
                                 conocerAlumno.nacimiento = Convert.ToDateTime(reader["nacimiento"]);
+                                conocerAlumno.id = Convert.ToInt32(reader["id_alumno"]);
 
                                 alumnado.Add(conocerAlumno);
                             }

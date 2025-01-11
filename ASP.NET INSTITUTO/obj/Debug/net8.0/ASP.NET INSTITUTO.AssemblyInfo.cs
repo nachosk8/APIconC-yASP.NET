@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET INSTITUTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bd7c5d14020b5c2b570fcb5018e4d21b55d5c88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8899b501de99793a89cf770ffde9c28148ab6f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET INSTITUTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET INSTITUTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

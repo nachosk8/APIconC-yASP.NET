@@ -21,6 +21,28 @@
     "EndpointName": "GetAlumnos"
   },
   {
+    "ContainingType": "ASP.NET_INSTITUTO.Controllers.AlumnoController",
+    "Method": "DeleteAlumnos",
+    "RelativePath": "Alumno",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ASP.NET_INSTITUTO.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
